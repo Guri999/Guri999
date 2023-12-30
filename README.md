@@ -26,8 +26,10 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Guri999?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 </p>
-<a></a>
-<img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"> <br />
+<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+  <img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+</p>
+  <br />
 
 <p align="center">
   <b>🖥️Project</b>
@@ -54,6 +56,7 @@
     <img alt="post" src="https://velog-readme-stats.vercel.app/api?name=guysang"/>
   </a>
 </p>
+
 <p align="center">
   <b>📚Learning</b>
   <br/>
@@ -65,6 +68,7 @@
     <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=Guri999&repo=TIL"/>
   </a>
 </p>
+
 <!--
 **Guri999/Guri999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

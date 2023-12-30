@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/Guri999/Guri999/assets/116724657/b393bf3d-2deb-43c9-920e-dfa0028a2b5c"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=guri999&theme=blue-navy&hide_border=true&locale=ko&card_width=800" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=guri999&theme=github-dark-dimmed&hide_border=true&locale=ko&card_width=800)" alt="GitHub Streak" />
 </p>
 <br/>
 <!-- Social icons section -->

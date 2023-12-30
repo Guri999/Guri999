@@ -56,7 +56,7 @@
 </p>
 <p align="center">
   <b>📚Learning</b>
-  
+  <br/>
   <a href="https://github.com/Guri999/codekata">
     <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=Guri999&repo=codekata"/>
   </a>

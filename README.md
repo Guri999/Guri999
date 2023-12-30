@@ -25,7 +25,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Guri999?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 </p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
   <img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
 </p>
   <br />
@@ -48,7 +48,7 @@
   </a>
 </p>
 <p align="center">
-  <b>✍️VelogPost</b>
+  <b style="font-size:30px">✍️VelogPost</b>
   <br/>
   <br/>
   <a href="https://velog.io/@guysang">

@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/Guri999/Guri999/assets/116724657/dd8ebadf-cd94-416a-867f-27f1651d5e6d"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/users/327515167946440705" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
@@ -26,12 +26,43 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Guri999?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 </p>
-<code><img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"> <br /> <br/><a></a></code>
+<a></a>
+<img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"> <br />
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heesoo-park&repo=TeamAssignment3_2)](https://github.com/heesoo-park/TeamAssignment3_2) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guri999k&repo=Introduction)](https://github.com/Guri999/Introduction) 
-
+<p align="center">
+  <b>🖥️Project</b>
+  <br/>
+  <br/>
+  <a href="https://github.com/heesoo-park/TeamAssignment3_2">
+    <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=heesoo-park&repo=TeamAssignment3_2"/>
+  </a>
+  <a href="https://github.com/Guri999/Introduction">
+    <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=Guri999&repo=Introduction"/>
+  </a>
+  <a href="https://github.com/Guri999/MyKiosk">
+    <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=Guri999&repo=MyKiosk"/>
+  </a>
+  <a href="https://github.com/Guri999/MyHotelCheckIn">
+    <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=Guri999&repo=MyHotelCheckIn"/>
+  </a>
+</p>
+<p align="center">
+  <b>✍️VelogPost</b>
+  <br/>
+  <br/>
+  <a href="https://velog.io/@guysang">
+    <img alt="post" src="https://velog-readme-stats.vercel.app/api?name=guysang"/>
+  </a>
+</p>
+<p align="center">
+  <b>📚Learning</b>
+  <a href="https://github.com/Guri999/codekata">
+    <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=Guri999&repo=codekata"/>
+  </a>
+  <a href="https://github.com/Guri999/TIL">
+    <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=Guri999&repo=TIL"/>
+  </a>
+</p>
 <!--
 **Guri999/Guri999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

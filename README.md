@@ -1,5 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/Guri999/Guri999/assets/116724657/b393bf3d-2deb-43c9-920e-dfa0028a2b5c"/>
+</p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=guri999&theme=github-light&hide_border=true&locale=ko&card_width=800)](https://git.io/streak-stats)
 <!--
 **Guri999/Guri999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -26,7 +26,8 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Guri999?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 </p>
-<code><img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"> <br / > <br/></code>
+<code><img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"> <br /> <br/><a></a></code>
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heesoo-park&repo=TeamAssignment3_2)](https://github.com/heesoo-park/TeamAssignment3_2) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guri999k&repo=Introduction)](https://github.com/Guri999/Introduction) 

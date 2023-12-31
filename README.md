@@ -29,6 +29,14 @@
   <img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
 </p>
   <br />
+<p align="center">
+  <b>----Velog로 이동----</b>
+  <br/>
+  <br/>
+  <a href="https://velog.io/@guysang"/>
+    <img src="https://github.com/Guri999/Guri999/assets/116724657/73939e64-5368-450b-9618-eb5cbd7de9fb"/>
+  </a>
+</p>
 
 <p align="center">
   <b>🖥️Project</b>

@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://github.com/Guri999/Guri999/assets/116724657/b393bf3d-2deb-43c9-920e-dfa0028a2b5c"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=guri999&theme=github-dark-dimmed&hide_border=true&locale=ko&card_width=800)" alt="GitHub Streak" />
 </p>
 <br/>
 <!-- Social icons section -->
@@ -11,10 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/327515167946440705" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
 </p>
-<br/>
-
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
@@ -36,8 +32,10 @@
 
 </p>
 <p>&nbsp; &nbsp; &nbsp;
-  <img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
-    
+  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+  <code><img  height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 </p>
   <br />
 <p align="center">
@@ -51,12 +49,14 @@
     <img src="https://github.com/Guri999/Guri999/assets/116724657/73939e64-5368-450b-9618-eb5cbd7de9fb"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guri999" height=200px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guri999&theme=github_icons=true" height=200px/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guri999)](https://github.com/Guri999) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guri999&theme=github_dark&show_icons=true) 
+<h3 align="center"> 🖥️Project </h3>
 
 <p align="center">
-  <b>🖥️Project</b>
-  <br/>
   <br/>
   <a href="https://github.com/heesoo-park/TeamAssignment3_2">
     <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=heesoo-park&repo=TeamAssignment3_2"/>
@@ -71,18 +71,15 @@
     <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=Guri999&repo=MyHotelCheckIn"/>
   </a>
 </p>
+<h3 align="center">✍️VelogPost</h3>
 <p align="center">
-  <b style="font-size:30px">✍️VelogPost</b>
-  <br/>
   <br/>
   <a href="https://velog.io/@guysang">
     <img alt="post" src="https://velog-readme-stats.vercel.app/api?name=guysang"/>
   </a>
 </p>
-
+<h3 align="center">📚Learning</h3>
 <p align="center">
-  <b>📚Learning</b>
-  <br/>
   <br/>
   <a href="https://github.com/Guri999/codekata">
     <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=Guri999&repo=codekata"/>
@@ -90,6 +87,7 @@
   <a href="https://github.com/Guri999/TIL">
     <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=Guri999&repo=TIL"/>
   </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=guri999&theme=github-dark-dimmed&hide_border=true&locale=ko&card_width=800)" alt="GitHub Streak" />
 </p>
 
 <!--

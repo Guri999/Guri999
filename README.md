@@ -58,14 +58,14 @@
 
 <p align="center">
   <br/>
+  <a href="https://github.com/nbCampGroup-2-24-01-15/ColorContacts">
+    <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=nbCampGroup-2-24-01-15&repo=ColorContacts"/>
+  </a>
   <a href="https://github.com/Guri999/AppleMarket">
     <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=Guri999&repo=AppleMarket"/>
   </a>
   <a href="https://github.com/heesoo-park/TeamAssignment3_2">
     <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=heesoo-park&repo=TeamAssignment3_2"/>
-  </a>
-  <a href="https://github.com/Guri999/Introduction">
-    <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=Guri999&repo=Introduction"/>
   </a>
   <a href="https://github.com/Guri999/MyKiosk">
     <img alt="post" src="https://github-readme-stats.vercel.app/api/pin/?username=Guri999&repo=MyKiosk"/>

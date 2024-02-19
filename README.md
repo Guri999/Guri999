@@ -9,7 +9,6 @@
   <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/Guri999/Guri999/assets/116724657/dd8ebadf-cd94-416a-867f-27f1651d5e6d"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/327515167946440705" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->

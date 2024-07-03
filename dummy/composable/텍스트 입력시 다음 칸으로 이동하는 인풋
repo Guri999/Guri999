@@ -1,0 +1,109 @@
+
+@Composable
+private fun InputBottom(
+    answerSize: Int = 0,
+    onCheckAnswer: (String) -> Unit,
+) {
+    val focusRequesters = remember {
+        List(answerSize) { FocusRequester() }
+    }
+    val inputValues = remember {
+        mutableStateListOf(*Array(answerSize) { "" })
+    }
+    var currentFocusIndex by remember {
+        mutableIntStateOf(0)
+    }
+    var buttonEnabled by remember {
+        mutableStateOf(false)
+    }
+
+    LaunchedEffect(currentFocusIndex) {
+        if (currentFocusIndex < answerSize) {
+            focusRequesters[currentFocusIndex].requestFocus()
+        }
+    }
+
+    Column(
+        modifier = Modifier
+            .fillMaxWidth()
+            .background(Color.Transparent),
+    ) {
+        Column(
+            modifier = Modifier
+                .fillMaxWidth()
+                .shadow(
+                    blurRadius = 8.dp,
+                    offsetY = 2.dp,
+                    offsetX = 0.dp,
+                    color = ButterColor.black.copy(alpha = 0.12f)
+                )
+                .background(
+                    color = ButterColor.white,
+                    shape = RoundedCornerShape(
+                        topEnd = 20.dp,
+                        topStart = 20.dp
+                    )
+                )
+                .padding(
+                    vertical = 24.dp,
+                    horizontal = 16.dp
+                ),
+            horizontalAlignment = Alignment.CenterHorizontally,
+            verticalArrangement = Arrangement.Center
+        ) {
+            Row(
+                modifier = Modifier,
+                horizontalArrangement = Arrangement.spacedBy(24.dp)
+            ) {
+                inputValues.forEachIndexed { index, value ->
+                    OutlinedTextField(
+                        modifier = Modifier
+                            .height(60.dp)
+                            .width(48.dp)
+                            .focusRequester(focusRequesters[index]),
+                        value = value,
+                        onValueChange = {
+                            if (it.length <= 1) {
+                                inputValues[index] = it
+                                buttonEnabled = inputValues.all { it.isNotEmpty() }
+                            }
+                        },
+                        keyboardOptions = KeyboardOptions.Default.copy(
+                            imeAction = if (index > answerSize - 1) ImeAction.Next else ImeAction.Done
+                        ),
+                        keyboardActions = KeyboardActions(
+                            onNext = {
+                                if (index < answerSize - 1 && inputValues[index].isNotEmpty()) {
+                                    currentFocusIndex = index + 1
+                                }
+                            },
+                            onDone = {
+                                if (index < answerSize - 1 && inputValues[index].isNotEmpty()) {
+                                    currentFocusIndex = index + 1
+                                }
+                            }
+                        ),
+                        colors = OutlinedTextFieldDefaults.colors(
+                            focusedBorderColor = ButterColor.keyColor1,
+                            unfocusedBorderColor = ButterColor.grey3,
+                            focusedContainerColor = ButterColor.grey6,
+                            unfocusedContainerColor = ButterColor.grey6,
+                        ),
+                        maxLines = 1,
+                    )
+                }
+            }
+        }
+        Column(
+            modifier = Modifier
+                .fillMaxWidth()
+                .background(ButterColor.white)
+        ) {
+            ButterBottomButton(
+                enabled = buttonEnabled,
+                title = "다음",
+                onClick = { onCheckAnswer(inputValues.joinToString("")) }
+            )
+        }
+    }
+}

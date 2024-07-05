@@ -1,4 +1,3 @@
-
 @Composable
 private fun InputBottom(
     answerSize: Int = 0,

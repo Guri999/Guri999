@@ -38,7 +38,6 @@
 </p>
   <br />
 <p align="center">
-  <span style="font-size: 20px"> 열심히 할게요</span>
   <br/>
   <br/>
   <b>----Velog로 이동 ----</b>
